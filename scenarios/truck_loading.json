@@ -1,0 +1,605 @@
+{
+  "packages": [
+    {
+      "package_id": "PKG-001",
+      "weight": 12,
+      "priority": 22,
+      "ratio": 1.83
+    },
+    {
+      "package_id": "PKG-002",
+      "weight": 5,
+      "priority": 87,
+      "ratio": 17.4
+    },
+    {
+      "package_id": "PKG-003",
+      "weight": 31,
+      "priority": 189,
+      "ratio": 6.1
+    },
+    {
+      "package_id": "PKG-004",
+      "weight": 22,
+      "priority": 130,
+      "ratio": 5.91
+    },
+    {
+      "package_id": "PKG-005",
+      "weight": 30,
+      "priority": 116,
+      "ratio": 3.87
+    },
+    {
+      "package_id": "PKG-006",
+      "weight": 21,
+      "priority": 146,
+      "ratio": 6.95
+    },
+    {
+      "package_id": "PKG-007",
+      "weight": 36,
+      "priority": 26,
+      "ratio": 0.72
+    },
+    {
+      "package_id": "PKG-008",
+      "weight": 36,
+      "priority": 97,
+      "ratio": 2.69
+    },
+    {
+      "package_id": "PKG-009",
+      "weight": 39,
+      "priority": 84,
+      "ratio": 2.15
+    },
+    {
+      "package_id": "PKG-010",
+      "weight": 30,
+      "priority": 84,
+      "ratio": 2.8
+    },
+    {
+      "package_id": "PKG-011",
+      "weight": 46,
+      "priority": 195,
+      "ratio": 4.24
+    },
+    {
+      "package_id": "PKG-012",
+      "weight": 35,
+      "priority": 23,
+      "ratio": 0.66
+    },
+    {
+      "package_id": "PKG-013",
+      "weight": 12,
+      "priority": 122,
+      "ratio": 10.17
+    },
+    {
+      "package_id": "PKG-014",
+      "weight": 21,
+      "priority": 73,
+      "ratio": 3.48
+    },
+    {
+      "package_id": "PKG-015",
+      "weight": 28,
+      "priority": 71,
+      "ratio": 2.54
+    },
+    {
+      "package_id": "PKG-016",
+      "weight": 7,
+      "priority": 200,
+      "ratio": 28.57
+    },
+    {
+      "package_id": "PKG-017",
+      "weight": 35,
+      "priority": 138,
+      "ratio": 3.94
+    },
+    {
+      "package_id": "PKG-018",
+      "weight": 50,
+      "priority": 192,
+      "ratio": 3.84
+    },
+    {
+      "package_id": "PKG-019",
+      "weight": 37,
+      "priority": 175,
+      "ratio": 4.73
+    },
+    {
+      "package_id": "PKG-020",
+      "weight": 41,
+      "priority": 127,
+      "ratio": 3.1
+    },
+    {
+      "package_id": "PKG-021",
+      "weight": 36,
+      "priority": 76,
+      "ratio": 2.11
+    },
+    {
+      "package_id": "PKG-022",
+      "weight": 33,
+      "priority": 36,
+      "ratio": 1.09
+    },
+    {
+      "package_id": "PKG-023",
+      "weight": 8,
+      "priority": 21,
+      "ratio": 2.62
+    },
+    {
+      "package_id": "PKG-024",
+      "weight": 42,
+      "priority": 65,
+      "ratio": 1.55
+    },
+    {
+      "package_id": "PKG-025",
+      "weight": 12,
+      "priority": 12,
+      "ratio": 1.0
+    },
+    {
+      "package_id": "PKG-026",
+      "weight": 46,
+      "priority": 66,
+      "ratio": 1.43
+    },
+    {
+      "package_id": "PKG-027",
+      "weight": 14,
+      "priority": 33,
+      "ratio": 2.36
+    },
+    {
+      "package_id": "PKG-028",
+      "weight": 14,
+      "priority": 114,
+      "ratio": 8.14
+    },
+    {
+      "package_id": "PKG-029",
+      "weight": 19,
+      "priority": 84,
+      "ratio": 4.42
+    },
+    {
+      "package_id": "PKG-030",
+      "weight": 50,
+      "priority": 136,
+      "ratio": 2.72
+    },
+    {
+      "package_id": "PKG-031",
+      "weight": 27,
+      "priority": 99,
+      "ratio": 3.67
+    },
+    {
+      "package_id": "PKG-032",
+      "weight": 6,
+      "priority": 185,
+      "ratio": 30.83
+    },
+    {
+      "package_id": "PKG-033",
+      "weight": 49,
+      "priority": 151,
+      "ratio": 3.08
+    },
+    {
+      "package_id": "PKG-034",
+      "weight": 23,
+      "priority": 89,
+      "ratio": 3.87
+    },
+    {
+      "package_id": "PKG-035",
+      "weight": 27,
+      "priority": 187,
+      "ratio": 6.93
+    },
+    {
+      "package_id": "PKG-036",
+      "weight": 46,
+      "priority": 153,
+      "ratio": 3.33
+    },
+    {
+      "package_id": "PKG-037",
+      "weight": 43,
+      "priority": 77,
+      "ratio": 1.79
+    },
+    {
+      "package_id": "PKG-038",
+      "weight": 29,
+      "priority": 30,
+      "ratio": 1.03
+    },
+    {
+      "package_id": "PKG-039",
+      "weight": 26,
+      "priority": 97,
+      "ratio": 3.73
+    },
+    {
+      "package_id": "PKG-040",
+      "weight": 29,
+      "priority": 112,
+      "ratio": 3.86
+    },
+    {
+      "package_id": "PKG-041",
+      "weight": 37,
+      "priority": 49,
+      "ratio": 1.32
+    },
+    {
+      "package_id": "PKG-042",
+      "weight": 48,
+      "priority": 106,
+      "ratio": 2.21
+    },
+    {
+      "package_id": "PKG-043",
+      "weight": 10,
+      "priority": 181,
+      "ratio": 18.1
+    },
+    {
+      "package_id": "PKG-044",
+      "weight": 21,
+      "priority": 38,
+      "ratio": 1.81
+    },
+    {
+      "package_id": "PKG-045",
+      "weight": 20,
+      "priority": 176,
+      "ratio": 8.8
+    },
+    {
+      "package_id": "PKG-046",
+      "weight": 30,
+      "priority": 118,
+      "ratio": 3.93
+    },
+    {
+      "package_id": "PKG-047",
+      "weight": 7,
+      "priority": 150,
+      "ratio": 21.43
+    },
+    {
+      "package_id": "PKG-048",
+      "weight": 47,
+      "priority": 181,
+      "ratio": 3.85
+    },
+    {
+      "package_id": "PKG-049",
+      "weight": 11,
+      "priority": 118,
+      "ratio": 10.73
+    },
+    {
+      "package_id": "PKG-050",
+      "weight": 26,
+      "priority": 111,
+      "ratio": 4.27
+    },
+    {
+      "package_id": "PKG-051",
+      "weight": 33,
+      "priority": 122,
+      "ratio": 3.7
+    },
+    {
+      "package_id": "PKG-052",
+      "weight": 29,
+      "priority": 90,
+      "ratio": 3.1
+    },
+    {
+      "package_id": "PKG-053",
+      "weight": 33,
+      "priority": 87,
+      "ratio": 2.64
+    },
+    {
+      "package_id": "PKG-054",
+      "weight": 14,
+      "priority": 102,
+      "ratio": 7.29
+    },
+    {
+      "package_id": "PKG-055",
+      "weight": 42,
+      "priority": 90,
+      "ratio": 2.14
+    },
+    {
+      "package_id": "PKG-056",
+      "weight": 41,
+      "priority": 167,
+      "ratio": 4.07
+    },
+    {
+      "package_id": "PKG-057",
+      "weight": 34,
+      "priority": 193,
+      "ratio": 5.68
+    },
+    {
+      "package_id": "PKG-058",
+      "weight": 44,
+      "priority": 125,
+      "ratio": 2.84
+    },
+    {
+      "package_id": "PKG-059",
+      "weight": 37,
+      "priority": 193,
+      "ratio": 5.22
+    },
+    {
+      "package_id": "PKG-060",
+      "weight": 12,
+      "priority": 75,
+      "ratio": 6.25
+    },
+    {
+      "package_id": "PKG-061",
+      "weight": 26,
+      "priority": 30,
+      "ratio": 1.15
+    },
+    {
+      "package_id": "PKG-062",
+      "weight": 17,
+      "priority": 154,
+      "ratio": 9.06
+    },
+    {
+      "package_id": "PKG-063",
+      "weight": 22,
+      "priority": 81,
+      "ratio": 3.68
+    },
+    {
+      "package_id": "PKG-064",
+      "weight": 23,
+      "priority": 92,
+      "ratio": 4.0
+    },
+    {
+      "package_id": "PKG-065",
+      "weight": 43,
+      "priority": 176,
+      "ratio": 4.09
+    },
+    {
+      "package_id": "PKG-066",
+      "weight": 22,
+      "priority": 137,
+      "ratio": 6.23
+    },
+    {
+      "package_id": "PKG-067",
+      "weight": 8,
+      "priority": 35,
+      "ratio": 4.38
+    },
+    {
+      "package_id": "PKG-068",
+      "weight": 33,
+      "priority": 84,
+      "ratio": 2.55
+    },
+    {
+      "package_id": "PKG-069",
+      "weight": 26,
+      "priority": 55,
+      "ratio": 2.12
+    },
+    {
+      "package_id": "PKG-070",
+      "weight": 9,
+      "priority": 126,
+      "ratio": 14.0
+    },
+    {
+      "package_id": "PKG-071",
+      "weight": 17,
+      "priority": 76,
+      "ratio": 4.47
+    },
+    {
+      "package_id": "PKG-072",
+      "weight": 45,
+      "priority": 34,
+      "ratio": 0.76
+    },
+    {
+      "package_id": "PKG-073",
+      "weight": 41,
+      "priority": 83,
+      "ratio": 2.02
+    },
+    {
+      "package_id": "PKG-074",
+      "weight": 34,
+      "priority": 192,
+      "ratio": 5.65
+    },
+    {
+      "package_id": "PKG-075",
+      "weight": 47,
+      "priority": 177,
+      "ratio": 3.77
+    },
+    {
+      "package_id": "PKG-076",
+      "weight": 28,
+      "priority": 76,
+      "ratio": 2.71
+    },
+    {
+      "package_id": "PKG-077",
+      "weight": 39,
+      "priority": 112,
+      "ratio": 2.87
+    },
+    {
+      "package_id": "PKG-078",
+      "weight": 27,
+      "priority": 167,
+      "ratio": 6.19
+    },
+    {
+      "package_id": "PKG-079",
+      "weight": 45,
+      "priority": 111,
+      "ratio": 2.47
+    },
+    {
+      "package_id": "PKG-080",
+      "weight": 29,
+      "priority": 33,
+      "ratio": 1.14
+    },
+    {
+      "package_id": "PKG-081",
+      "weight": 43,
+      "priority": 154,
+      "ratio": 3.58
+    },
+    {
+      "package_id": "PKG-082",
+      "weight": 46,
+      "priority": 97,
+      "ratio": 2.11
+    },
+    {
+      "package_id": "PKG-083",
+      "weight": 35,
+      "priority": 117,
+      "ratio": 3.34
+    },
+    {
+      "package_id": "PKG-084",
+      "weight": 32,
+      "priority": 154,
+      "ratio": 4.81
+    },
+    {
+      "package_id": "PKG-085",
+      "weight": 47,
+      "priority": 49,
+      "ratio": 1.04
+    },
+    {
+      "package_id": "PKG-086",
+      "weight": 38,
+      "priority": 95,
+      "ratio": 2.5
+    },
+    {
+      "package_id": "PKG-087",
+      "weight": 35,
+      "priority": 31,
+      "ratio": 0.89
+    },
+    {
+      "package_id": "PKG-088",
+      "weight": 30,
+      "priority": 59,
+      "ratio": 1.97
+    },
+    {
+      "package_id": "PKG-089",
+      "weight": 45,
+      "priority": 119,
+      "ratio": 2.64
+    },
+    {
+      "package_id": "PKG-090",
+      "weight": 46,
+      "priority": 139,
+      "ratio": 3.02
+    },
+    {
+      "package_id": "PKG-091",
+      "weight": 30,
+      "priority": 96,
+      "ratio": 3.2
+    },
+    {
+      "package_id": "PKG-092",
+      "weight": 42,
+      "priority": 177,
+      "ratio": 4.21
+    },
+    {
+      "package_id": "PKG-093",
+      "weight": 12,
+      "priority": 93,
+      "ratio": 7.75
+    },
+    {
+      "package_id": "PKG-094",
+      "weight": 46,
+      "priority": 79,
+      "ratio": 1.72
+    },
+    {
+      "package_id": "PKG-095",
+      "weight": 36,
+      "priority": 108,
+      "ratio": 3.0
+    },
+    {
+      "package_id": "PKG-096",
+      "weight": 9,
+      "priority": 179,
+      "ratio": 19.89
+    },
+    {
+      "package_id": "PKG-097",
+      "weight": 11,
+      "priority": 97,
+      "ratio": 8.82
+    },
+    {
+      "package_id": "PKG-098",
+      "weight": 40,
+      "priority": 27,
+      "ratio": 0.68
+    },
+    {
+      "package_id": "PKG-099",
+      "weight": 17,
+      "priority": 61,
+      "ratio": 3.59
+    },
+    {
+      "package_id": "PKG-100",
+      "weight": 18,
+      "priority": 36,
+      "ratio": 2.0
+    }
+  ],
+  "truck_capacity": 500
+}
